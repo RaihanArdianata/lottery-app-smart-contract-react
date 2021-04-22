@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.card{
+  width: 50%;
+  height: 600px;
+}
