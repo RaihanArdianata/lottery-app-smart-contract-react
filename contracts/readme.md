@@ -3,7 +3,7 @@
 
 Lottery
 
-Install the dependencies and deploy to local network
+Install the dependencies and deploy to local network (ganache)
 
 ```sh
 cd contracts
